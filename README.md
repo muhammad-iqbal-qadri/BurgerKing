@@ -38,7 +38,7 @@ npm install
 ```bash
 npm run dev
 ```
-6. Open in Your Browser: Visit `http://localhost:5173` to view MetaverseVR locally.
+6. Open in Your Browser: Visit `http://localhost:5173` to view Burger King locally.
 ```bash
 http://localhost:5173
 ```
