@@ -23,11 +23,11 @@ To use Burger King for your food website project, follow these steps:
 
 1. Clone this repository to your local machine.
 ```bash
-git clone 
+git clone https://github.com/muhammad-iqbal-qadri/BurgerKing.git
 ```
 2. Navigate to the project directory in your terminal.
 ```bash
-cd 
+cd BurgerKing
 ```
 3. Install all Dependencies
 ```bash
@@ -43,6 +43,8 @@ npm run dev
 http://localhost:5173
 ```
 7. Deploy the website to your preferred hosting platform to make it accessible to the public.
+
+8. Or you can simply preview the template deployed [here](burgerking-miq.vercel.app).
 
 ## Contributing
 We welcome contributions from the community to enhance Burger King and make it even more versatile for food businesses. If you have ideas for new features or improvements, please feel free to submit a pull request or open an issue on our GitHub repository.
